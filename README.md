@@ -37,10 +37,10 @@ Notebooks Features :
 Each notebook is hosted and run on Google Colab, making it easy to execute without local setup.
 
 Notebooks include:
-Data loading and preview
-Data cleaning and preprocessing steps
-Exploratory data analysis with visualizations
-Statistical analysis and key insights
+Data loading and preview.
+Data cleaning and preprocessing steps.
+Exploratory data analysis with visualizations.
+Statistical analysis and key insights.
 
 How to Run :
 Open any notebook directly in Google Colab by clicking the provided link in the repository.
