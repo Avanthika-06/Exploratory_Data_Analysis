@@ -1,4 +1,4 @@
-Exploratory Data Analysis (EDA) on Multiple Datasets : 
+#Exploratory Data Analysis (EDA) on Multiple Datasets : 
 
 This repository contains Google Colab notebooks performing Exploratory Data Analysis (EDA) on various real-world datasets, covering topics such as movies, stock prices, customer behavior, and online content platforms. Each notebook provides an in-depth dataset analysis, aiming to extract useful insights and present the findings with clear visualizations.
 
