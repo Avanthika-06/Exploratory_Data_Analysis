@@ -2,35 +2,36 @@
 
 This repository contains Google Colab notebooks performing Exploratory Data Analysis (EDA) on various real-world datasets, covering topics such as movies, stock prices, customer behavior, and online content platforms. Each notebook provides an in-depth dataset analysis, aiming to extract useful insights and present the findings with clear visualizations.
 
-Datasets Overview
-Amazon Customer Behavior Survey
+Datasets Overview :
+
+Amazon Customer Behavior Survey :
 Analysis of customer behavior patterns and preferences using survey data.
 
-Amazon Prime Video
+Amazon Prime Video :
 Exploration of Amazon Prime’s content catalog to understand trends in genres, ratings, and user engagement.
 
-Global YouTube Statistics
+Global YouTube Statistics :
 Investigation of YouTube video statistics such as views, likes, and comments to uncover engagement trends.
 
-IMDB Movie Data
+IMDB Movie Data :
 Analysis of IMDB’s movie dataset to understand key attributes like ratings, genres, and release year trends.
 
-INFY Historical Data
+INFY Historical Data :
 Stock price analysis of Infosys Limited to identify trends, volatility, and key historical movements.
 
-IPL Matches (2008-2022)
+IPL Matches (2008-2022) :
 Exploration of IPL match data to derive insights on team performance, player statistics, and match outcomes.
 
-Nifty 50 Historical Data
+Nifty 50 Historical Data :
 Historical analysis of the Nifty 50 index to observe market trends and performance over time.
 
-NSE All Share Historical Data
+NSE All Share Historical Data :
 Analysis of historical stock data from the National Stock Exchange covering various companies.
 
-Rotten Tomatoes Movies
+Rotten Tomatoes Movies :
 Exploring movie reviews and ratings to identify patterns in audience preferences and critic responses.
 
-TCS Historical Data
+TCS Historical Data :
 Analysis of Tata Consultancy Services stock data focusing on trends and key movements in the stock market.
 
 Notebooks Features :
